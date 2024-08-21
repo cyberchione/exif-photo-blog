@@ -80,3 +80,4 @@ export const formatCameraText = (
 
 export const formatCameraModelTextShort = (camera: Camera) =>
   formatCameraText(camera, 'never', true);
+//push to main
